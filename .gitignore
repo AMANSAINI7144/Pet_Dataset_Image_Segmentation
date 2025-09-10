@@ -1,0 +1,5 @@
+# Ignore large/binary files
+data/
+*.pth
+runs/
+checkpoints/
